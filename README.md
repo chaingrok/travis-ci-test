@@ -5,3 +5,7 @@
 
 [![codecov](https://codecov.io/gh/chaingrok/travis-ci-test/branch/master/graph/badge.svg)](https://codecov.io/gh/chaingrok/travis-ci-test)
 
+[![](https://jitpack.io/v/chaingrok/travis-ci-test.svg)](https://jitpack.io/#chaingrok/travis-ci-test)
+
+
+
